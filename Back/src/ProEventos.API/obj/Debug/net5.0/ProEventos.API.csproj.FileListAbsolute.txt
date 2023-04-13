@@ -5,13 +5,11 @@ C:\dev\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.deps.j
 C:\dev\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.runtimeconfig.json
 C:\dev\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.runtimeconfig.dev.json
 C:\dev\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.dll
-C:\dev\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ref\ProEventos.API.dll
 C:\dev\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.API.pdb
 C:\dev\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.OpenApi.dll
 C:\dev\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\dev\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\dev\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\dev\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.csprojAssemblyReference.cache
 C:\dev\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.GeneratedMSBuildEditorConfig.editorconfig
 C:\dev\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.AssemblyInfoInputs.cache
 C:\dev\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.AssemblyInfo.cs
@@ -19,7 +17,6 @@ C:\dev\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.csproj
 C:\dev\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.MvcApplicationPartsAssemblyInfo.cs
 C:\dev\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.MvcApplicationPartsAssemblyInfo.cache
 C:\dev\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\staticwebassets\ProEventos.API.StaticWebAssets.Manifest.cache
-C:\dev\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\staticwebassets\ProEventos.API.StaticWebAssets.xml
 C:\dev\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\scopedcss\bundle\ProEventos.API.styles.css
 C:\dev\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.RazorTargetAssemblyInfo.cache
 C:\dev\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.csproj.CopyComplete
@@ -27,3 +24,6 @@ C:\dev\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.dll
 C:\dev\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ref\ProEventos.API.dll
 C:\dev\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.pdb
 C:\dev\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.genruntimeconfig.cache
+C:\dev\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ref\ProEventos.API.dll
+C:\dev\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.csprojAssemblyReference.cache
+C:\dev\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\staticwebassets\ProEventos.API.StaticWebAssets.xml
