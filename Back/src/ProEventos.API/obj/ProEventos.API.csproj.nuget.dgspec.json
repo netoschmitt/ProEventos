@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\dev\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj": {}
+    "C:\\dev\\ProEventos\\Back\\src\\ProEventos.Api\\ProEventos.API.csproj": {}
   },
   "projects": {
-    "C:\\dev\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj": {
+    "C:\\dev\\ProEventos\\Back\\src\\ProEventos.Api\\ProEventos.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\dev\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
+        "projectUniqueName": "C:\\dev\\ProEventos\\Back\\src\\ProEventos.Api\\ProEventos.API.csproj",
         "projectName": "ProEventos.API",
-        "projectPath": "C:\\dev\\ProEventos\\Back\\src\\ProEventos.API\\ProEventos.API.csproj",
+        "projectPath": "C:\\dev\\ProEventos\\Back\\src\\ProEventos.Api\\ProEventos.API.csproj",
         "packagesPath": "C:\\Users\\agnel\\.nuget\\packages\\",
-        "outputPath": "C:\\dev\\ProEventos\\Back\\src\\ProEventos.API\\obj\\",
+        "outputPath": "C:\\dev\\ProEventos\\Back\\src\\ProEventos.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
