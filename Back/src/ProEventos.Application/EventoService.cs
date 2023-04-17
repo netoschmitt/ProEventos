@@ -2,6 +2,7 @@ using System;
 using System.Threading.Tasks;
 using ProEventos.Application.Contratos;
 using ProEventos.Domain;
+using ProEventos.Application;
 using ProEventos.Persistence.Contratos;
 
 namespace ProEventos.Application

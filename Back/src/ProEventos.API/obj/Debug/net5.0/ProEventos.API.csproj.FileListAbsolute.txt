@@ -61,3 +61,10 @@ C:\dev\ProEventos\Back\src\ProEventos.Api\obj\Debug\net5.0\ProEventos.API.dll
 C:\dev\ProEventos\Back\src\ProEventos.Api\obj\Debug\net5.0\ref\ProEventos.API.dll
 C:\dev\ProEventos\Back\src\ProEventos.Api\obj\Debug\net5.0\ProEventos.API.pdb
 C:\dev\ProEventos\Back\src\ProEventos.Api\obj\Debug\net5.0\ProEventos.API.genruntimeconfig.cache
+C:\dev\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.API.dll
+C:\dev\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ref\ProEventos.API.dll
+C:\dev\ProEventos\Back\src\ProEventos.Application\obj\Debug\net5.0\ProEventos.API.pdb
+C:\dev\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\dev\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\dev\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\dev\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
