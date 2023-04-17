@@ -39,6 +39,12 @@ C:\dev\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-arm\nati
 C:\dev\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
 C:\dev\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
 C:\dev\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\dev\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Application.dll
+C:\dev\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Domain.dll
+C:\dev\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Persistence.dll
+C:\dev\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Application.pdb
+C:\dev\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Domain.pdb
+C:\dev\ProEventos\Back\src\ProEventos.API\bin\Debug\net5.0\ProEventos.Persistence.pdb
 C:\dev\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.csprojAssemblyReference.cache
 C:\dev\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.GeneratedMSBuildEditorConfig.editorconfig
 C:\dev\ProEventos\Back\src\ProEventos.API\obj\Debug\net5.0\ProEventos.API.AssemblyInfoInputs.cache
